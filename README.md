@@ -1,2 +1,0 @@
-# newproject
-project for Django
